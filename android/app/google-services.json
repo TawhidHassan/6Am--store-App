@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "1000163153346",
-    "project_id": "ammart-8885e",
-    "storage_bucket": "ammart-8885e.appspot.com"
+    "project_number": "34515163079",
+    "project_id": "amiri-luxe-376209",
+    "storage_bucket": "amiri-luxe-376209.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1000163153346:android:7d49ab307cc6e18406b25b",
+        "mobilesdk_app_id": "1:34515163079:android:70d81d74935b18364b2be2",
         "android_client_info": {
-          "package_name": "com.sixamtech.sixam_mart"
+          "package_name": "com.AMIRILUXE.AMIRILUXE"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1000163153346-48ckm2uf7h70hmgn74kg1gq02sval158.apps.googleusercontent.com",
+          "client_id": "34515163079-lci2tne8ovcofdhcjqijkb6h72lt0bvi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCic6Mw3RRPFcimXhwGidwhCN0tXY7HFFc"
+          "current_key": "AIzaSyBS-v7GwEPzHqOxlyOyFlcRJCwor6Xj-s4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1000163153346-48ckm2uf7h70hmgn74kg1gq02sval158.apps.googleusercontent.com",
+              "client_id": "34515163079-lci2tne8ovcofdhcjqijkb6h72lt0bvi.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "1000163153346-hp7bhaospkotp5url7sh5pdsk3en85vi.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.sixamtech.sixamMart"
-              }
             }
           ]
         }
@@ -43,35 +36,57 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1000163153346:android:0a51480725d70dc706b25b",
+        "mobilesdk_app_id": "1:34515163079:android:9d4a7f38dcf0f9c44b2be2",
         "android_client_info": {
-          "package_name": "com.sixamtech.sixam_mart_store"
+          "package_name": "com.AmiriluxePartner.AmiriluxePartner"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1000163153346-48ckm2uf7h70hmgn74kg1gq02sval158.apps.googleusercontent.com",
+          "client_id": "34515163079-lci2tne8ovcofdhcjqijkb6h72lt0bvi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCic6Mw3RRPFcimXhwGidwhCN0tXY7HFFc"
+          "current_key": "AIzaSyBS-v7GwEPzHqOxlyOyFlcRJCwor6Xj-s4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1000163153346-48ckm2uf7h70hmgn74kg1gq02sval158.apps.googleusercontent.com",
+              "client_id": "34515163079-lci2tne8ovcofdhcjqijkb6h72lt0bvi.apps.googleusercontent.com",
               "client_type": 3
-            },
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34515163079:android:ef35ab1da37fb9ff4b2be2",
+        "android_client_info": {
+          "package_name": "com.AmiriluxeStore.AmiriluxeStore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34515163079-lci2tne8ovcofdhcjqijkb6h72lt0bvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-v7GwEPzHqOxlyOyFlcRJCwor6Xj-s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
             {
-              "client_id": "1000163153346-hp7bhaospkotp5url7sh5pdsk3en85vi.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.sixamtech.sixamMart"
-              }
+              "client_id": "34515163079-lci2tne8ovcofdhcjqijkb6h72lt0bvi.apps.googleusercontent.com",
+              "client_type": 3
             }
           ]
         }
